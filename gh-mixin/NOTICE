@@ -1,0 +1,8 @@
+gh.yaml, gh.dockerfile, and gh-context.md in this directory are copied
+unmodified (aside from one YAML syntax fix for `phase`) from Docker's
+Docker Sandbox Kit Specification examples:
+
+  https://github.com/docker/sandbox-kit-spec/tree/main/examples/gh
+
+Copyright 2026 Docker, Inc. Licensed under the Apache License, Version 2.0:
+https://www.apache.org/licenses/LICENSE-2.0
